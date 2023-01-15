@@ -7,4 +7,4 @@ ______
 <li>Обычный энкодер</li>
 </ul>	
 <hr>
-***Ссылка на последнюю версию прошивки: <a href="https://github.com/DrGames580501/RW1/releases/tag/RW1001">0.01</a>***
+<b>Ссылка на последнюю версию прошивки: <a href="https://github.com/DrGames580501/RW1/releases/tag/RW1001">0.01</a></b>
